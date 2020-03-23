@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.content {
+    padding: 15px 15px 10px 15px;
+}
+
+.card {
+    padding: 10px 15px 0px 15px;
+    margin: 10px 0px 10px 0px;
+}
+
+.text-head {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.col-xs-5 {
+    padding: 5px;
+}
+
+.card-icon {
+    margin-top: 15px;
+    font-size: 3em;
+}
+
+p {
+    margin: 0;
+}
+
+.textbox {
+    text-align: right;
+}
+
+.navbar-brand {
+    margin: 0;
+}
+
+.card-head {
+    font-size: 2.5em;
+}
+
+hr {
+    margin: 20px;
+}
+
+.setting-head {
+    margin-top: 5px;
+}
+
+.setting-box {
+    margin-left: 10px;
+}
+
+.setting-form {
+    margin: 10px;
+}
+
+.temp_unit {
+    font-size: 0.9em;
+}
+
+.inline_setting {
+    display: inline-block;
+}
+
+.setting-button {
+    margin: 12px 10px 12px 10px;
+}
+
+.card-height {
+    min-height: 95%;
+}
+
+.radio-inline {
+    margin-left: 10px;
+}
+
+label {
+    margin-bottom: 14px;
+}
+
+.alert {
+    position: fixed;
+    top : 0.5%;
+    left: 5%;
+    width: 90%;
+    margin-top: 30px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.disable {
+    color: #dfdfdf;
+}
