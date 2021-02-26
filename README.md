@@ -1,6 +1,7 @@
 ![](README/banner.png)
 This repository consists of codes of "Computer Programming (Com-Pro)" Project, Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).
 ### Demo Website : https://max180643.github.io/Smart-Home-Monitoring
+#### Main Git Repo: https://github.com/max180643/Smart-Home-Monitoring
 _____
 # Abstract
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ในปัจจุบันนี้ วิถีชีวิตของคนไทยมีการปรับตัวเป็นที่สังคมเร่งรีบ เวลาเป็นสิ่งที่สำคัญมาก เจ้าของบ้านหรือห้องพัก อาจไม่มีเวลาอยู่ภายในเคหะสถานตลอดเวลา ทำให้ไม่ทราบถึงสภาพแวดล้อมภายในบ้านหรือที่อยู่อาศัย ณ ปัจจุบัน ทางเราเห็นปัญหานี จึงได้จัดทำโปรเจค “Smart Home Monitoring” นี้ขึ้น เพื่อที่จะได้ทราบถึงสถาพแวดล้อมภายในบ้าน เช่น อุณหภูมิ, ความชื้น ฯลฯ ได้อย่างสะดวกสบาย โดยใช้ Microcontroller และ Modules ในการตรวจสอบสภาพแวดล้อม และแจ้งสถานะมายัง Smart phone ทั้งนี้ เพื่อนำความรู้ที่ได้จากการศึกษา มาใช้ให้เกิดประโยชน์สูงสุด
